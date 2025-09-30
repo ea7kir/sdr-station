@@ -8,8 +8,7 @@
 ## Intent
 - An easy to build 'black box' DATV Transciever
 - Runs on a headless Mini PC (minimum spec t.b.a)
-- GUI control from a PC, Linux or Mac computer
-- Minumum external hardware
+- Remote monitor and control from a Web browser over LAN or Internet
 - No hardware encoder
 - One LibreSDR for TX and RX
 - HDMI input from OBS or vMix, etc
